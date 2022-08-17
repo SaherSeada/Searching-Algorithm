@@ -1,0 +1,3 @@
+﻿  Source.c
+E:\Sprints\Search Algorithm\Task3\Task3\Source.c(22,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Task3.vcxproj -> E:\Sprints\Search Algorithm\Task3\x64\Debug\Task3.exe
